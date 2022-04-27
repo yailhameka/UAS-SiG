@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "name": "Nama dan Lokasi Futsal",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Andaria Futsal",
+        "buka": "setiap hari 08.00-23.00",
+        "alamat": "Jalan 28 Oktober, Siantan Hulu, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78242"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.3628, -0.00717] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Sheva Futsal",
+        "buka": "setiap hari 08.00-24.00",
+        "alamat": "Jalan selat panjang, Siantan Hulu, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78242"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.368611, -0.015959] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Futsal Dhony Ole Khatulistiwa",
+        "buka": "setiap hari 08.00-23.00",
+        "alamat": "Jl. Parwasal, Siantan Tengah, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78243"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.345514, -0.008994] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Futsal Olimpic",
+        "buka": "setiap hari 08.00-23.00",
+        "alamat": "Jl. Selat Bali, Siantan Tengah, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78243"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.344422, -0.020005] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Futsal SMK 6 Pontianak Utara",
+        "buka": "setiap hari 08.00-23.00",
+        "alamat": "Jalan 28 Oktober 2, Siantan Hulu, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78242"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.366626, 0.008319] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Futsal Borneo",
+        "buka": "setiap hari 08.00-23.00",
+        "alamat": "Jl. Budi Utomo, Siantan Hilir, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78243"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.33245, 0.005553] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Futsal Jaya Khatulistiwa",
+        "buka": "setiap hari 09.00-23.00",
+        "alamat": "Jl. Kebangkitan Nasional, Batu Layang, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78243"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.324493, 0.01262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama futsal": "Futsal Dianeka ",
+        "buka": "setiap hari 07.00-00.00",
+        "alamat": "Jl. Gg Flora1, Batu Layang, Pontianak Utara, Kota Pontianak, Kalimantan Barat 78351"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.300199, 0.008645] }
+    }
+  ]
+}
